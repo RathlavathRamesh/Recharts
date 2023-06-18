@@ -1,0 +1,11 @@
+/* Write your CSS here */
+.barchart2 {
+  height: 85vh;
+  padding: 5vh;
+  margin: 5vh;
+  background-color: #1c1c2b;
+}
+.coverageClass2 {
+  color: #cbd5e1;
+  font-size: 20px;
+}

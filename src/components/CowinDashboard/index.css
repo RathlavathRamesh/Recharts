@@ -1,0 +1,41 @@
+/* Write your CSS here */
+.DashBoard {
+  background-color: #161625;
+  padding: 10px;
+  height: 300vh;
+}
+.failheading {
+  color: #ffffff;
+}
+.failImage {
+  height: 10vh;
+}
+.failureView {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+.small {
+  display: flex;
+}
+.webLogo {
+  height: 3.5vh;
+  margin-top: 1vh;
+  margin-left: 2vh;
+}
+.heading {
+  font-size: 16px;
+  color: #2cc6c6;
+  margin-left: 1vh;
+}
+.paraText {
+  color: #ffffff;
+  margin-left: 2vh;
+}
+.loader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin-top: 18vh;
+}
